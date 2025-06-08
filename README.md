@@ -1,4 +1,4 @@
-# 📄 @barani-kumar-naidu-bandaru-671521227
+# 📄 @barani-kumar-naidu-bandaru-resume
 
 This is a command-line resume viewer for **Barani Kumar Naidu Bandaru**.
 
@@ -13,7 +13,7 @@ With just a single `npx` command, you can instantly view my resume either in you
 To see a beautifully formatted version of my resume in your terminal, run:
 
 ```bash
-npx @barani-kumar-naidu-bandaru-671521227
+npx @barani-kumar-naidu-bandaru-resume
 ```
 
 This will display a styled version of my resume using `chalk`.
@@ -25,7 +25,7 @@ This will display a styled version of my resume using `chalk`.
 To open the **PDF version** of my resume in your default browser, run:
 
 ```bash
-npx @barani-kumar-naidu-bandaru-671521227 web
+npx @barani-kumar-naidu-bandaru-resume web
 ```
 
 This will launch a browser window and open the hosted PDF version of my resume.
@@ -46,7 +46,7 @@ This package offers:
 ## 🔗 Contact
 
 - 📧 Email: [bharani.bbk@gmail.com](mailto:bharani.bbk@gmail.com)
-- 🌐 LinkedIn: [linkedin.com/in/barani-kumar-naidu-bandaru-671521227](https://linkedin.com/in/barani-kumar-naidu-bandaru-671521227)
+- 🌐 LinkedIn: [linkedin.com/in/barani-kumar-naidu-bandaru-resume](https://linkedin.com/in/barani-kumar-naidu-bandaru-resume)
 - 🧾 PDF Resume: [https://barani-resume.vercel.app](https://resume-gamma-neon.vercel.app/)
 
 ---
@@ -56,13 +56,13 @@ This package offers:
 You can also install the package globally if you'd like to run it without `npx`:
 
 ```bash
-npm install -g @barani-kumar-naidu-bandaru-671521227
+npm install -g @barani-kumar-naidu-bandaru-resume
 
 # Terminal view
-barani-kumar-naidu-bandaru-671521227
+barani-kumar-naidu-bandaru-resume
 
 # Browser view
-barani-kumar-naidu-bandaru-671521227 web
+barani-kumar-naidu-bandaru-resume web
 ```
 
 ---

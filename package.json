@@ -1,11 +1,11 @@
 {
-  "name": "barani-kumar-naidu-bandaru-671521227",
+  "name": "barani-kumar-naidu-bandaru-resume",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
   "scripts": {},
   "bin": {
-    "@barani-kumar-naidu-bandaru-671521227": "./index.js"
+    "@barani-kumar-naidu-bandaru-resume": "./index.js"
   },
   "keywords": [
     "barani"
@@ -16,5 +16,9 @@
   "dependencies": {
     "chalk": "^5.4.1",
     "open": "^10.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/barani-bbk/npm_package"
   }
 }
