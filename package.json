@@ -2,6 +2,7 @@
   "name": "barani-kumar-naidu-bandaru-671521227",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,6 +14,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "chalk": "^5.4.1"
+    "chalk": "^5.4.1",
+    "open": "^10.1.2"
   }
 }
