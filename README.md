@@ -13,7 +13,7 @@ With just a single `npx` command, you can instantly view my resume either in you
 To see a beautifully formatted version of my resume in your terminal, run:
 
 ```bash
-npx @barani-kumar-naidu-bandaru-resume
+npx @barani-kumar-naidu-bandaru-671521227
 ```
 
 This will display a styled version of my resume using `chalk`.
@@ -25,7 +25,7 @@ This will display a styled version of my resume using `chalk`.
 To open the **PDF version** of my resume in your default browser, run:
 
 ```bash
-npx @barani-kumar-naidu-bandaru-resume web
+npx @barani-kumar-naidu-bandaru-671521227 web
 ```
 
 This will launch a browser window and open the hosted PDF version of my resume.
@@ -59,10 +59,10 @@ You can also install the package globally if you'd like to run it without `npx`:
 npm install -g @barani-kumar-naidu-bandaru-resume
 
 # Terminal view
-barani-kumar-naidu-bandaru-resume
+barani-kumar-naidu-bandaru-671521227
 
 # Browser view
-barani-kumar-naidu-bandaru-resume web
+barani-kumar-naidu-bandaru-671521227 web
 ```
 
 ---

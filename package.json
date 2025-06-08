@@ -5,10 +5,11 @@
   "type": "module",
   "scripts": {},
   "bin": {
-    "@barani-kumar-naidu-bandaru-resume": "./index.js"
+    "barani-kumar-naidu-bandaru-671521227": "./index.js"
   },
   "keywords": [
-    "barani"
+    "barani",
+    "barani-kumar-naidu-bandaru"
   ],
   "author": "Barani Kumar Naidu Bandaru",
   "license": "ISC",
